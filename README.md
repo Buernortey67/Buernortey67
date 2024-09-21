@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🛠️ Skills
 
-**Languages:**  
+**Languages: 
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 
@@ -24,7 +24,7 @@ Tools:**
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 
 
-ibraries:**  
+ibraries:  
 - ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas)   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=flat&logo=matplotlib)
 
