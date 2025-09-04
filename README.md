@@ -17,11 +17,11 @@ Languages:
 
 
 Frameworks:
-- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  ![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=flat&logo=p5dotjs)  ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
+- ![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=flat&logo=p5dotjs)  ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
 
 Tools:  
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 
 
 libraries:  
