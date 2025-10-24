@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Bismark Buernortey Buer, a passionate tech enthusiast with a focus on software engineering, web, and game development.
-- 👀 I’m interested in building innovative digital experiences that blend design and functionality.
-- 🌱 I’m currently learning advanced data structures, algorithms, and exploring optimization techniques in C++ and Python.
-- 💞️ I’m looking to collaborate on exciting web development, game development, or software engineering projects.
-- 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/bbbuer3/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing soccer and exploring new tech through gaming.
+- Hi, I’m Bismark Buernortey Buer, a passionate tech enthusiast with a focus on software engineering, web, and game development.
+- I’m interested in building innovative digital experiences that blend design and functionality.
+- I’m currently learning advanced data structures, algorithms, and exploring optimization techniques in C++ and Python.
+- I’m looking to collaborate on exciting web development, game development, or software engineering projects.
+- How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/bbbuer3/).
+- Fun fact: I love playing soccer and exploring new tech through gaming.
 
 <!---
 Buernortey67/Buernortey67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
